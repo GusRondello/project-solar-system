@@ -1,5 +1,11 @@
-.App {
+body {
+  background-image: url('./images/background.png');
+  box-sizing: border-box;
+  color: aliceblue;
+  margin: 0;
+  padding: 0;
   text-align: center;
 }
+
 
 /* primeiro comitt */

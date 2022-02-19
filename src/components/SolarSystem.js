@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import '../App.css';
 import planets from '../data/planets';
 import PlanetCard from './PlanetCard';
 import Title from './Title';
